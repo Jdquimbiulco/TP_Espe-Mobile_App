@@ -6,7 +6,7 @@ package ec.edu.espe.mobile.view;
 
 /**
  *
- * @author Juan Diego
+ * @author Camila Ramos
  */
 public class FrmStudentFound extends javax.swing.JFrame {
 

@@ -8,7 +8,7 @@ import ec.edu.espe.mobile.controller.FormsHandler;
 
 /**
  *
- * @author Juan Diego
+ * @author Yetsalem Santorum
  */
 public class FrmStudentList extends javax.swing.JFrame {
 

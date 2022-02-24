@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Juan Diego
+ * @author Daniela Tituaña
  */
 public class FrmPayTuition extends javax.swing.JFrame {
 

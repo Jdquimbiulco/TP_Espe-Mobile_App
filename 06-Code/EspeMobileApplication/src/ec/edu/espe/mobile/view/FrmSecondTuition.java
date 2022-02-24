@@ -6,7 +6,7 @@ package ec.edu.espe.mobile.view;
 
 /**
  *
- * @author Juan Diego
+ * @author Raúl Silva
  */
 public class FrmSecondTuition extends javax.swing.JFrame {
 

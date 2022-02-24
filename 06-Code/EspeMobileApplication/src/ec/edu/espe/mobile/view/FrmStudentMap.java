@@ -6,7 +6,7 @@ package ec.edu.espe.mobile.view;
 
 /**
  *
- * @author Juan Diego
+ * @author Yetsalem Santorum
  */
 public class FrmStudentMap extends javax.swing.JFrame {
 

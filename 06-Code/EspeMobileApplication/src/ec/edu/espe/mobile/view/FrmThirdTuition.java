@@ -8,7 +8,7 @@ import ec.edu.espe.mobile.controller.FormsHandler;
 
 /**
  *
- * @author raul2
+ * @author Raul Silva
  */
 public class FrmThirdTuition extends javax.swing.JFrame {
 
