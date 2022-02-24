@@ -3,8 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+<<<<<<< HEAD
             <file>file:/D:/Descargas/Materias/F.Ingenieria/Codigos/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmThirdTuition.java</file>
             <file>file:/D:/Descargas/Materias/F.Ingenieria/Codigos/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmStudentFound.java</file>
+=======
+            <file>file:/C:/Users/raul2/Desktop/espe/fundamentosIngenieria/codigo/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmThirdTuition.java</file>
+>>>>>>> eb85ee98c8c838bc069bed184e1ae3c5304ab6b9
         </group>
     </open-files>
 </project-private>

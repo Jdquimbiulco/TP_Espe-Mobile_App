@@ -26,7 +26,7 @@ import ec.edu.espe.mobile.view.FrmPayTuition;
 
 /**
  *
- * @author Juan Diego
+ * @author Raúl Silva
  */
 public class FrmEspeMobileStudent extends javax.swing.JFrame {
 

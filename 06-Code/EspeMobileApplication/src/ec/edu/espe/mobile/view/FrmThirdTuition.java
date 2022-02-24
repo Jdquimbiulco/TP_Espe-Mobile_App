@@ -8,7 +8,7 @@ import ec.edu.espe.mobile.controller.FormsHandler;
 
 /**
  *
- * @author raul2
+ * @author Raul Silva
  */
 public class FrmThirdTuition extends javax.swing.JFrame {
 
@@ -40,7 +40,8 @@ public class FrmThirdTuition extends javax.swing.JFrame {
         jTable1.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
                 {"L00418241", "QUIMBIULCO CARRION JUAN DIEGO "},
-                {"L00082853", "SILVA VELASQUEZ RAUL ANDRES"}
+                {"L00082853", "SILVA VELASQUEZ RAUL ANDRES"},
+                {"L00400869", "MOLINA GUAICO GUSTAVO STIVEN "}
             },
             new String [] {
                 "ID", "Name"
