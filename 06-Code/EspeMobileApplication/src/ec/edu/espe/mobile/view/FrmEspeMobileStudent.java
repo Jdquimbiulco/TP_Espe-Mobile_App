@@ -220,8 +220,8 @@ public class FrmEspeMobileStudent extends javax.swing.JFrame {
     }//GEN-LAST:event_itmJoinActionPerformed
 
     private void itmEnterMapActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_itmEnterMapActionPerformed
-        FrmStudentMap frmStudentMap  = new FrmStudentMap ();
-        frmStudentMap .setVisible(true);
+        FrmInteractiveMap frmInteractiveMap  = new FrmInteractiveMap ();
+        frmInteractiveMap .setVisible(true);
         this.setVisible(false);
     }//GEN-LAST:event_itmEnterMapActionPerformed
 
