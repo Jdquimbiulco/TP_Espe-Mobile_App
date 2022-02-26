@@ -3,49 +3,34 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-<<<<<<< HEAD
-            <file>file:/D:/Descargas/Materias/F.Ingenieria/Codigos/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmTeacher.java</file>
-            <file>file:/D:/Descargas/Materias/F.Ingenieria/Codigos/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmHelp.java</file>
-            <file>file:/D:/Descargas/Materias/F.Ingenieria/Codigos/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmIdiomas.java</file>
-            <file>file:/D:/Descargas/Materias/F.Ingenieria/Codigos/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmEspeMobileTeacher.java</file>
-            <file>file:/D:/Descargas/Materias/F.Ingenieria/Codigos/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmJoinClass.java</file>
-            <file>file:/D:/Descargas/Materias/F.Ingenieria/Codigos/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmBiblioteca.java</file>
-            <file>file:/D:/Descargas/Materias/F.Ingenieria/Codigos/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmEspeMobileStudent.java</file>
-            <file>file:/D:/Descargas/Materias/F.Ingenieria/Codigos/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmVerde.java</file>
-            <file>file:/D:/Descargas/Materias/F.Ingenieria/Codigos/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmEspeMobileApp.java</file>
-            <file>file:/D:/Descargas/Materias/F.Ingenieria/Codigos/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/Estudiante%20(1).png</file>
-            <file>file:/D:/Descargas/Materias/F.Ingenieria/Codigos/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmBloqueC.java</file>
-            <file>file:/D:/Descargas/Materias/F.Ingenieria/Codigos/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmStudentFound.java</file>
-            <file>file:/D:/Descargas/Materias/F.Ingenieria/Codigos/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmInteractiveMap.java</file>
-            <file>file:/D:/Descargas/Materias/F.Ingenieria/Codigos/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmThirdTuition.java</file>
-            <file>file:/D:/Descargas/Materias/F.Ingenieria/Codigos/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmAbout.java</file>
-            <file>file:/D:/Descargas/Materias/F.Ingenieria/Codigos/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmHistory.java</file>
-            <file>file:/D:/Descargas/Materias/F.Ingenieria/Codigos/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmFirstTuition.java</file>
-            <file>file:/D:/Descargas/Materias/F.Ingenieria/Codigos/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmAccount.java</file>
-            <file>file:/D:/Descargas/Materias/F.Ingenieria/Codigos/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmPayTuition.java</file>
-            <file>file:/D:/Descargas/Materias/F.Ingenieria/Codigos/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/Found.png</file>
-            <file>file:/D:/Descargas/Materias/F.Ingenieria/Codigos/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmSalud.java</file>
-=======
-<<<<<<< HEAD
+            <file>file:/C:/Users/USER/Desktop/ingenieria/codigo/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmFindStudent.java</file>
+            <file>file:/C:/Users/USER/Desktop/ingenieria/codigo/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmTeacher.java</file>
+            <file>file:/C:/Users/USER/Desktop/ingenieria/codigo/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmVerde.java</file>
+            <file>file:/C:/Users/USER/Desktop/ingenieria/codigo/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmHelp.java</file>
+            <file>file:/C:/Users/USER/Desktop/ingenieria/codigo/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmSecondTuition.java</file>
+            <file>file:/C:/Users/USER/Desktop/ingenieria/codigo/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmContacTeacher.java</file>
+            <file>file:/C:/Users/USER/Desktop/ingenieria/codigo/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmFilter.java</file>
             <file>file:/C:/Users/USER/Desktop/ingenieria/codigo/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmAbout.java</file>
-=======
-            <file>file:/C:/fundamentosIngenieria01/proyect/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmAccountTeach.java</file>
-            <file>file:/C:/fundamentosIngenieria01/proyect/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmCashAvaliable.java</file>
-            <file>file:/C:/fundamentosIngenieria01/proyect/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/Button%20.png</file>
-            <file>file:/C:/fundamentosIngenieria01/proyect/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmContacTeacher.java</file>
-            <file>file:/C:/fundamentosIngenieria01/proyect/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmBloqueC.java</file>
-            <file>file:/C:/fundamentosIngenieria01/proyect/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmAccount.java</file>
-            <file>file:/C:/fundamentosIngenieria01/proyect/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmAddClassmate.java</file>
-            <file>file:/C:/fundamentosIngenieria01/proyect/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmEspeMobileStudent.java</file>
-            <file>file:/C:/fundamentosIngenieria01/proyect/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmBiblioteca.java</file>
-            <file>file:/C:/fundamentosIngenieria01/proyect/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/Found.png</file>
-            <file>file:/C:/fundamentosIngenieria01/proyect/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmEspeMobileApp.java</file>
-            <file>file:/C:/fundamentosIngenieria01/proyect/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmAbout.java</file>
-            <file>file:/C:/fundamentosIngenieria01/proyect/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/Bibiloteca.jpg</file>
-            <file>file:/C:/fundamentosIngenieria01/proyect/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/Estudiante%20(1).png</file>
-            <file>file:/C:/fundamentosIngenieria01/proyect/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/BloqueC.jpg</file>
->>>>>>> 2e7a76d27f57bf3bfd9695abf555f08a629c6df1
->>>>>>> bf1a5ebc5c434ccf5a4f06fb60994c23ad486c8c
+            <file>file:/C:/Users/USER/Desktop/ingenieria/codigo/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmBloqueC.java</file>
+            <file>file:/C:/Users/USER/Desktop/ingenieria/codigo/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmAccountTeach.java</file>
+            <file>file:/C:/Users/USER/Desktop/ingenieria/codigo/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmSalud.java</file>
+            <file>file:/C:/Users/USER/Desktop/ingenieria/codigo/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmPayTuition.java</file>
+            <file>file:/C:/Users/USER/Desktop/ingenieria/codigo/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmStudentList.java</file>
+            <file>file:/C:/Users/USER/Desktop/ingenieria/codigo/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmStudentFound.java</file>
+            <file>file:/C:/Users/USER/Desktop/ingenieria/codigo/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmJoinClassTeach.java</file>
+            <file>file:/C:/Users/USER/Desktop/ingenieria/codigo/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmCashAvaliable.java</file>
+            <file>file:/C:/Users/USER/Desktop/ingenieria/codigo/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmIdiomas.java</file>
+            <file>file:/C:/Users/USER/Desktop/ingenieria/codigo/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmAddClassmate.java</file>
+            <file>file:/C:/Users/USER/Desktop/ingenieria/codigo/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmEspeMobileTeacher.java</file>
+            <file>file:/C:/Users/USER/Desktop/ingenieria/codigo/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmStudent.java</file>
+            <file>file:/C:/Users/USER/Desktop/ingenieria/codigo/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmEspeMobileStudent.java</file>
+            <file>file:/C:/Users/USER/Desktop/ingenieria/codigo/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmFirstTuition.java</file>
+            <file>file:/C:/Users/USER/Desktop/ingenieria/codigo/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmInteractiveMap.java</file>
+            <file>file:/C:/Users/USER/Desktop/ingenieria/codigo/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmEspeMobileApp.java</file>
+            <file>file:/C:/Users/USER/Desktop/ingenieria/codigo/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmThirdTuition.java</file>
+            <file>file:/C:/Users/USER/Desktop/ingenieria/codigo/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmBiblioteca.java</file>
+            <file>file:/C:/Users/USER/Desktop/ingenieria/codigo/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmJoinClass.java</file>
+            <file>file:/C:/Users/USER/Desktop/ingenieria/codigo/TP_Espe-Mobile_App/06-Code/EspeMobileApplication/src/ec/edu/espe/mobile/view/FrmHistory.java</file>
         </group>
     </open-files>
 </project-private>
